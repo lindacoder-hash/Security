@@ -427,7 +427,7 @@ gcloud compute vpn-tunnels create tunnel-4 \
   --ike-version=1 \
   --shared-secret="psk-tunnel-4" \
   --vpn-gateway=my-ha-vpn-gateway \
-  --vpn-gateway-interface=1ss
+  --vpn-gateway-interface=1
 ```
 
 ---
