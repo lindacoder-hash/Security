@@ -1,5 +1,6 @@
-IPsec protocol suite designed to secure IP communications by authenticating/encrpyting each IP packet in a data stream.
-Used for VPN over untrusted networks like the internet.
+Internet Protocol Security (IPsec) is a secure network protocol suite that authenticates and encrypts packets of data to provide secure encrypted communication between two computers over an Internet Protocol network. It is used in virtual private networks (VPNs).
+
+![alt text](s2s.png)
 
 ## 1. On-prem client shares public IP of their Linux server, let me say 20.187.198.32
 
