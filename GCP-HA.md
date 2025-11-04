@@ -66,7 +66,7 @@ Let’s say you're using a Site-to-Site VPN between:
 Instead of manually defining which CIDRs are reachable:
 
 ✅ You enable BGP, and both ends automatically exchange:
-🔧 Automatic failover (e.g., VPN tunnel 1 goes down, tunnel 2 takes over)ssssssssssssssssssss
+🔧 Automatic failover (e.g., VPN tunnel 1 goes down, tunnel 2 takes over)
 
 ---
 
